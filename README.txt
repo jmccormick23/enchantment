@@ -1,5 +1,5 @@
 **IMPORTANT**
-DO NOT move the .csv files out of the folder they are in. I'm using relative file paths and this will result in the program not finding a .csv anymore.
+Keep the .csv files in the same folder location as the lookup.py program. I'm using relative file paths and not having these files in the same location will result in the program not finding a .csv anymore.
 
 
 ## Installation
