@@ -1,0 +1,61 @@
+Name,Property 1,Property 2,Property 3,Property 4
+Accuracy,Soul,Destroy,Fire,Order
+Acid Resistance,Body,Negate,Water,Chaos
+Health,Body,Create,Earth,Life
+Mana,Mind,Create,Water,Energy
+Detection,Mind,Negate,Air,Chaos
+Health Regeneration,Body,Transfer,Life,Time
+Evasion,Body,Transfer,Air,Chaos
+Fire Resistance,Body,Negate,Fire,Chaos
+Ice Resistance,Body,Negate,Water,Order
+Fortitude,Body,Negate,Earth,Time
+Luck,Soul,Transfer,Chaos,Order
+Energy Resistance,Body,Negate,Energy,Knowledge
+Mana Regeneration,Mind,Transfer,Energy,Time
+Willpower,Mind,Negate,Water,Time
+Poison Resistance,Body,Negate,Earth,Death
+Shock Resistance,Body,Negate,Air,Energy
+Stealth,Soul,Transfer,Air,Order
+Magical Damage Reflection,Mind,Transfer,Death,Water
+Physical Damage Reflection,Body,Transfer,Death,Earth
+Criomancy Proficiency,Mind,Create,Water,Knowledge
+Geomancy Proficiency,Mind,Create,Earth,Knowledge
+Venomancy Proficiency,Mind,Create,Death,Knowledge
+Vitriomancy Proficiency,Mind,Create,Chaos,Knowledge
+Druidcraft Proficiency,Soul,Create,Life,Knowledge
+Necromancy Proficiency,Soul,Create,Death,Knowledge
+Illusionism Proficiency,Soul,Transfer,Chaos,Knowledge
+Leadership Proficiency,Soul,Transfer,Order,Knowledge
+Assassination Proficiency,Body,Create,Death,Knowledge
+Hunting Proficiency,Body,Create,Time,Knowledge
+Warfare Proficiency,Body,Create,Chaos,Knowledge
+Knife Fighting Proficiency,Body,Transfer,Death,Knowledge
+Swordmanship Proficiency,Body,Transfer,Fire,Knowledge
+Fencing Proficiency,Body,Transfer,Water,Knowledge
+Mace Fighting Proficiency,Body,Transfer,Earth,Knowledge
+Axe Fighting Proficiency,Body,Transfer,Chaos,Knowledge
+Archery Proficiency,Body,Transfer,Air,Knowledge
+Abjuration Proficiency,Soul,Negate,Order,Knowledge
+Aeromancy Proficiency,Mind,Create,Air,Knowledge
+Witchcraft Proficiency,Mind,Create,Energy,Knowledge
+Restoration Proficiency,Soul,Transfer,Life,Knowledge
+Pyromancy Proficiency,Mind,Create,Fire,Knowledge
+Cooldown Reduction,Mind,Transform,Fire,Knowledge
+Critical Chance,Soul,Destroy,Air,Order
+Critical Damage,Body,Destroy,Fire,Chaos
+Lower Mana Cost,Mind,Transform,Water,Knowledge
+Acid Damage Conversion,Soul,Transform,Water,Chaos
+Fire Damage Conversion,Soul,Transform,Fire,Chaos
+Ice Damage Conversion,Soul,Transform,Water,Order
+Energy Damage Conversion,Soul,Transform,Energy,Knowledge
+Poison Damage Conversion,Soul,Transform,Earth,Death
+Shock Damage Conversion,Soul,Transform,Air,Energy
+Hit Health Recover,Body,Transfer,Life,Death
+Hit Mana Recover,Mind,Transfer,Energy,Death
+Hit Mana Burn,Mind,Destroy,Energy,Fire
+Wisdom,Soul,Transform,Life,Knowledge
+Constitution,Body,Transform,Life,Order
+Dexterity,Body,Transform,Time,Energy
+Intelligence,Mind,Transform,Energy,Knowledge
+Perception,Soul,Transform,Chaos,Knowledge
+Strength,Body,Transform,Order,Energy
